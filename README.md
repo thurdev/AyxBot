@@ -22,6 +22,10 @@
 - <h3>Express <a href="https://badge.fury.io/js/express"><img src="https://badge.fury.io/js/express.svg" alt="npm version" height="18"></a></h3>
 - <h3>Dotenv <a href="https://badge.fury.io/js/dotenv"><img src="https://badge.fury.io/js/dotenv.svg" alt="npm version" height="18"></a></h3>
 - <h3>Firebase <a href="https://badge.fury.io/js/firebase"><img src="https://badge.fury.io/js/firebase.svg" alt="npm version" height="18"></a></h3>
+- <h3>Firebase-Admin <a href="https://badge.fury.io/js/firebase-admin"><img src="https://badge.fury.io/js/firebase-admin.svg" alt="npm version" height="18"></a></h3>
+- <h3>Moment <a href="https://badge.fury.io/js/moment"><img src="https://badge.fury.io/js/moment.svg" alt="npm version" height="18"></a></h3>
+- <h3>Moment-Duration-Format <a href="https://badge.fury.io/js/moment-duration-format"><img src="https://badge.fury.io/js/moment-duration-format.svg" alt="npm version" height="18"></a></h3>
+- <h3>Path<a href="https://badge.fury.io/js/path"><img src="https://badge.fury.io/js/path.svg" alt="npm version" height="18"></a></h3>
 
 
 
