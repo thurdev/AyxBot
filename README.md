@@ -55,12 +55,12 @@
 ```
 
 <h3>Example</h3>
-```css
+```
 .credits
 ```
   <img src="http://thursrc.tk/gnc86.png" alt="credits.js" width="400">
-<br>
-```css
+
+```
 .call 1956834567 Sup my brother.
 ```
   <img src="http://thursrc.tk/p2da3.png" alt="credits.js" width="400">
