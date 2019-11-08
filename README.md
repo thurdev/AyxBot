@@ -6,7 +6,7 @@
 
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
 [![npm version](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node)
-[![lts](https://img.shields.io/badge/tested_with-current_node_LTS-blue.svg?style=flat)
+[!lts](https://img.shields.io/badge/tested_with-current_node_LTS-blue.svg?style=flat)
 
 ## Table of Content
 
