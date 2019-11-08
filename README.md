@@ -25,8 +25,11 @@
 - <h3>Firebase-Admin <a href="https://badge.fury.io/js/firebase-admin"><img src="https://badge.fury.io/js/firebase-admin.svg" alt="npm version" height="18"></a></h3>
 - <h3>Moment <a href="https://badge.fury.io/js/moment"><img src="https://badge.fury.io/js/moment.svg" alt="npm version" height="18"></a></h3>
 - <h3>Moment-Duration-Format <a href="https://badge.fury.io/js/moment-duration-format"><img src="https://badge.fury.io/js/moment-duration-format.svg" alt="npm version" height="18"></a></h3>
-- <h3>Path<a href="https://badge.fury.io/js/path"><img src="https://badge.fury.io/js/path.svg" alt="npm version" height="18"></a></h3>
-
+- <h3>Path <a href="https://badge.fury.io/js/path"><img src="https://badge.fury.io/js/path.svg" alt="npm version" height="18"></a></h3>
+- <h3>Merge-Descriptors <a href="https://badge.fury.io/js/merge-descriptors"><img src="https://badge.fury.io/js/merge-descriptors.svg" alt="npm version" height="18"></a></h3>
+- <h3>Uuid <a href="https://badge.fury.io/js/uuid"><img src="https://badge.fury.io/js/uuid.svg" alt="npm version" height="18"></a></h3>
+- <h3>Fs <a href="https://badge.fury.io/js/fs"><img src="https://badge.fury.io/js/fs.svg" alt="npm version" height="18"></a></h3>
+- <h3>Nexmo <a href="https://badge.fury.io/js/nexmo"><img src="https://badge.fury.io/js/nexmo.svg" alt="npm version" height="18"></a></h3>
 
 
 
