@@ -105,4 +105,4 @@ $ node .
 MIT
 
 
- <p style='text-align: center; color: red;font-size: 13px;'>CopyRight © ThurDev</p> 
+ <i style='text-align: center; color: red;font-size: 13px;'>CopyRight © ThurDev</i> 
