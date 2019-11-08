@@ -29,9 +29,9 @@
 
 ## Support
 
-[Twitter](https://twitter.com/thurdev)
-[Discord Server](https://discord.gg/vzMQvkw)
-[Documentation](#documentation)
+- [Twitter](https://twitter.com/thurdev)
+- [Discord Server](https://discord.gg/vzMQvkw)
+- [Documentation](#documentation)
 
 ## Documentation
 
