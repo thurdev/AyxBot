@@ -72,6 +72,12 @@
 ```
   <img src="http://thursrc.tk/ltpp6.png" alt="credits.js" width="400">
 
+```
+.activate 4Z6M-A9NS-K3L5
+```
+  <img src="http://thursrc.tk/wj88s.png" alt="credits.js" width="400">
+
+
 ## Installation
 
 ```bash
