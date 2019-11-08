@@ -25,14 +25,6 @@
 - <h3>Fs <a href="https://badge.fury.io/js/fs"><img src="https://badge.fury.io/js/fs.svg" alt="npm version" height="18"></a></h3>
 - <h3>Nexmo <a href="https://badge.fury.io/js/nexmo"><img src="https://badge.fury.io/js/nexmo.svg" alt="npm version" height="18"></a></h3>
 
-
-
-## Support
-
-- [Twitter](https://twitter.com/thurdev)
-- [Discord Server](https://discord.gg/vzMQvkw)
-- [Documentation](#documentation)
-
 ## Documentation
 ```js
 //Call to a desired number 
@@ -51,6 +43,12 @@
 
 - **Discord.js** https://discord.js.org/#/
 - **Nexmo** https://developer.nexmo.com/api/
+
+## Support
+
+- [Twitter](https://twitter.com/thurdev)
+- [Discord Server](https://discord.gg/vzMQvkw)
+- [Documentation](#documentation)
 
 ## License
 
