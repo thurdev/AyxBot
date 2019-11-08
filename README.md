@@ -18,6 +18,10 @@
 ## Dependencies
 
 - <h3>Discord.js <a href="https://badge.fury.io/js/discord.js"><img src="https://badge.fury.io/js/discord.js.svg" alt="npm version" height="18"></a></h3>
+- <h3>Enmap <a href="https://badge.fury.io/js/enmap"><img src="https://badge.fury.io/js/enmap.svg" alt="npm version" height="18"></a></h3>
+- <h3>Express <a href="https://badge.fury.io/js/express"><img src="https://badge.fury.io/js/express.svg" alt="npm version" height="18"></a></h3>
+- <h3>Dotenv <a href="https://badge.fury.io/js/dotenv"><img src="https://badge.fury.io/js/dotenv.svg" alt="npm version" height="18"></a></h3>
+- <h3>Firebase <a href="https://badge.fury.io/js/firebase"><img src="https://badge.fury.io/js/firebase.svg" alt="npm version" height="18"></a></h3>
 
 
 
