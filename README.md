@@ -35,7 +35,7 @@
 
 ## Documentation
 
-> .call countrycode + number + message | Call to a desired number
+> Call to a desired number <br> .call countrycode + number + message
 
 ## License
 
