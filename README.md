@@ -1,5 +1,6 @@
-<img src="https://i.imgur.com/LZ1UxJC.png" width=150px" align="center">
-
+<p align="center">
+  <img src="https://i.imgur.com/LZ1UxJC.png" width=150px" align="center">
+</p>
 # AyxBot
 
 > AyxBot is a Discord bot that offers many cool new features to your Discord server!
