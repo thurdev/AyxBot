@@ -48,6 +48,9 @@
 
 .setPlan @member normal/normal2/vip
 ```
+
+- **Discord.js** https://discord.js.org/#/
+
 ## License
 
 MIT
