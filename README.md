@@ -35,7 +35,7 @@
 
 ## Documentation
 
-> Call to a desired number <br> .call countrycode + number + message
+> Call to a desired number <br> .call countrycode + number + message <br><br> Activate a Plan <br> .activate key <br><br>
 
 ## License
 
