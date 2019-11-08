@@ -1,7 +1,9 @@
 # AyxBot
 
 > AyxBot is a Discord bot that offers many cool new features to your Discord server!
+<br>
 > Developed By: ThurDev
+<br>
 > ~Thur~#2440
 
 ## Table of Content
