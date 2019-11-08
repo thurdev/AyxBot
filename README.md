@@ -10,6 +10,7 @@
 
 - [Dependencies](#dependencies)
 - [Documentation](#documentation)
+- [Commands](#commands)
 - [How to Use](#howtouse)
 - [Support](#support)
 - [License](#license)
@@ -32,6 +33,12 @@
 - <h3>Nexmo <a href="https://badge.fury.io/js/nexmo"><img src="https://badge.fury.io/js/nexmo.svg" alt="npm version" height="18"></a></h3>
 
 ## Documentation
+
+- **Discord.js** https://discord.js.org/#/
+- **Nexmo** https://developer.nexmo.com/api/
+
+## Commands
+
 ```js
 //Call to a desired number 
 .call countrycode + number + message 
@@ -62,9 +69,6 @@ $ npm install
 # Run the app
 $ node .
 ```
-
-- **Discord.js** https://discord.js.org/#/
-- **Nexmo** https://developer.nexmo.com/api/
 
 ## Support
 
