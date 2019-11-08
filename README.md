@@ -54,9 +54,13 @@
 .setPlan @member normal/normal2/vip
 ```
 
-<h3Example</h3>
->call.js
+<h3>Example</h3>
+>.credits
   <img src="http://thursrc.tk/gnc86.png" alt="credits.js" width="400">
+<br>
+>.call 1956834567 Sup my brother.
+  <img src="http://thursrc.tk/p2da3.png" alt="credits.js" width="400">
+
 
 ## How to Use
 
