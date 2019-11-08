@@ -10,9 +10,9 @@
 
 ## Table of Content
 
-* [Installation](#installation)
-* [Support](#support)
-* [License](#license)
+- [Installation](#installation)
+- [Support](#support)
+- [License](#license)
 
 ## Installation
 
