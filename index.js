@@ -38,8 +38,8 @@ config({
 
 
 let prefix = ".";
-const token = "NTUzMzIxNzAzODIwNzU0OTYy.XcXtqw.v3m6MoEBlG9Ur1sPv56DWY0KjJ4";
-const owner = "307450830595031041";
+const token = "YOUR BOT TOKEN";
+const owner = "ThurDev";
 
 const firebase = require('firebase/app');
 const FieldValue = require('firebase-admin').firestore.FieldValue;
