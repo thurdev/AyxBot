@@ -37,9 +37,9 @@ config({
 
 
 
-let prefix = process.env.PREFIX;
-const token = process.env.TOKEN;
-const owner = process.env.OWNER;
+let prefix = ".";
+const token = "NTUzMzIxNzAzODIwNzU0OTYy.XcXtqw.v3m6MoEBlG9Ur1sPv56DWY0KjJ4";
+const owner = "307450830595031041";
 
 const firebase = require('firebase/app');
 const FieldValue = require('firebase-admin').firestore.FieldValue;
@@ -80,19 +80,6 @@ client.on("guildMemberAdd", async member => {
   
 });
 
-/*
-client.on('guildCreate', async(gData) => {
-	db.collection('guilds').doc(gData.id).set({
-		'guildId': gData.id,
-		'guildName': gData.name,
-		'guildOwner': gData.owner.user.username,
-		'guildOwnerID': gData.owner.id,
-		'guildMemberCount': gData.memberCount,
-		'guildNotifyChat': null,
-		'prefix': 'm!'
-	});
-});
-*/
 
 client.on("ready", () => {
     console.log(`${client.user.username} is now online!`);
