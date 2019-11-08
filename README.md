@@ -31,7 +31,10 @@
 
 [Twitter](https://twitter.com/thurdev)
 [Discord Server](https://discord.gg/vzMQvkw)
-[Documentation](https://docs.lenoxbot.com)
+[Documentation](#documentation)
+
+## Documentation
+
 
 ## License
 
