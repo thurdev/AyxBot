@@ -67,6 +67,10 @@
 ```
   <img src="http://thursrc.tk/p2da3.png" alt="credits.js" width="400">
 
+```
+.setplan @NotDevmind vip
+```
+  <img src="http://thursrc.tk/ltpp6.png" alt="credits.js" width="400">
 
 ## Installation
 
