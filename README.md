@@ -17,7 +17,8 @@
 
 ## Dependencies
 
-- <h3>Discord.js [![npm version](https://badge.fury.io/js/discord.js.svg)](https://badge.fury.io/js/discord.js)</h3>
+- <h3>Discord.js 
+  [![npm version](https://badge.fury.io/js/discord.js.svg)](https://badge.fury.io/js/discord.js)</h3>
 
 
 
