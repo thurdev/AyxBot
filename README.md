@@ -3,9 +3,10 @@
 </p>
                                                                         
 <h1 align="center">AyxBot</h1>
-<p align="center">
-> AyxBot is a Discord bot that offers many cool new features to your Discord server!
+<p align="center" style="color: #ccc;">
+AyxBot is a Discord bot that offers many cool new features to your Discord server!
 </p>
+
 ## Info
 
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
