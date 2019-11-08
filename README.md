@@ -6,6 +6,7 @@
 
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
 [![npm version](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node)
+
 ## Table of Content
 
 - [Dependencies](#dependencies)
@@ -50,9 +51,12 @@
 .credits
 
 //Define a plan to a mentioned user
-
 .setPlan @member normal/normal2/vip
 ```
+
+<h3Example</h3>
+>call.js
+  <img src="http://thursrc.tk/syar2.png" alt="credits.js" width="400">
 
 ## How to Use
 
