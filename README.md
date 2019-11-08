@@ -10,13 +10,14 @@
 
 ## Table of Content
 
-- [Installation](#installation)
+- [Dependencies](#dependencies)
 - [Support](#support)
 - [License](#license)
 
-## Installation
 
-You can find the whole instructions to download and how to configure the bot in our documentation [here](https://docs.lenoxbot.com/tutorials/how-can-i-host-my-own-instance-of-lenoxbot).
+## Dependencies
+
+<a href="https://badge.fury.io/js/discord.js"><img src="https://badge.fury.io/js/discord.js.svg" alt="npm version" height="18"></a>
 
 ## Support
 
