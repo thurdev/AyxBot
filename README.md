@@ -5,11 +5,12 @@
 ## Info
 
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
-
+[![npm version](https://badge.fury.io/js/node.svg)](https://badge.fury.io/js/node)
 ## Table of Content
 
 - [Dependencies](#dependencies)
 - [Documentation](#documentation)
+- [How to Use](#howtouse)
 - [Support](#support)
 - [License](#license)
 
@@ -44,6 +45,22 @@
 //Define a plan to a mentioned user
 
 .setPlan @member normal/normal2/vip
+```
+
+## How to Use
+
+```bash
+# Clone this repository
+$ git clone https://github.com/thurdev/AyxBot
+
+# Go into the repository
+$ cd AyxBot
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ node .
 ```
 
 - **Discord.js** https://discord.js.org/#/
