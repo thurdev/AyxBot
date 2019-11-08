@@ -2,10 +2,6 @@
 
 > AyxBot is a Discord bot that offers many cool new features to your Discord server!
 
-<center>
-  <p style='color: red;font-size: 13px;'>CopyRight © ThurDev</p> 
- </center>
-
 ## Info
 
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
@@ -107,3 +103,6 @@ $ node .
 ## License
 
 MIT
+
+
+ <p style='text-align: center; color: red;font-size: 13px;'>CopyRight © ThurDev</p> 
