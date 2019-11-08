@@ -35,7 +35,18 @@
 
 ## Documentation
 ```js
-> Call to a desired number <br> .call countrycode + number + message <br><br> Activate a Plan <br> .activate key <br><br> See your credits and your plan<br> .credits <br><br>  Define a plan to a mentioned user <br> .setPlan @member normal/normal2/vip
+//Call to a desired number 
+.call countrycode + number + message 
+
+//Activate a Plan 
+.activate key
+
+//See your credits and your plan
+.credits
+
+//Define a plan to a mentioned user
+
+.setPlan @member normal/normal2/vip
 ```
 ## License
 
