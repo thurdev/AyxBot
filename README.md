@@ -12,8 +12,8 @@
 - [Dependencies](#dependencies)
 - [Documentation](#documentation)
 - [Commands](#commands)
-- [Usage Example](#usage example)
-- [How to Install](#how to use)
+- [Example](#example)
+- [Installation](#installation)
 - [Support](#support)
 - [License](#license)
 
@@ -55,7 +55,7 @@
 .setPlan @member normal/normal2/vip
 ```
 
-## Usage Example
+## Example
 
 ```
 .credits
@@ -68,7 +68,7 @@
   <img src="http://thursrc.tk/p2da3.png" alt="credits.js" width="400">
 
 
-## How to Install
+## Installation
 
 ```bash
 # Clone this repository
