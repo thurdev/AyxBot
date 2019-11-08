@@ -3,6 +3,13 @@ sudo: required
 before_install:
   - npm install -g node-gyp
   - npm install --save bufferutil@3 ws@1
+  - "npm install -g npm@latest"
+install:
+  - "npm install -g eslint"
+  - "npm install -g eslint-config-aqua"
+cache:
+  directories:
+    - "node_modules"
 addons:
   apt:
     sources:
