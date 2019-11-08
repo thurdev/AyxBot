@@ -1,3 +1,6 @@
+<center>
+  <p style='color: red;font-size: 13px;'>CopyRight © ThurDev</p> 
+ </center>
 # AyxBot
 
 > AyxBot is a Discord bot that offers many cool new features to your Discord server!
