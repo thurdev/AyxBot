@@ -1,6 +1,6 @@
-# Discord-PhoneCall [BOT]
+# AyxBot
 
-> Discord-PhoneCall [BOT] is a Discord bot that offers many cool new features to your Discord server!
+> AyxBot is a Discord bot that offers many cool new features to your Discord server!
 
 [![npm version](https://badge.fury.io/js/discord.js.svg)](https://badge.fury.io/js/discord.js)
 [![Build Status](https://travis-ci.com/LenoxBot/LenoxBot.svg?branch=testing)](https://travis-ci.com/LenoxBot/LenoxBot)
