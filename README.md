@@ -50,6 +50,7 @@
 ```
 
 - **Discord.js** https://discord.js.org/#/
+- **Nexmo** https://developer.nexmo.com/api/
 
 ## License
 
