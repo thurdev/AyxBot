@@ -1,4 +1,4 @@
-<center align="center"><img src="https://i.imgur.com/LZ1UxJC.png" width=250px"></center>
+<img src="https://i.imgur.com/LZ1UxJC.png" width=150px" align="center">
 
 # AyxBot
 
