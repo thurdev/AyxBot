@@ -2,7 +2,7 @@
 
 > AyxBot is a Discord bot that offers many cool new features to your Discord server!
 
-<center><img src="https://i.imgur.com/ZOKp8LH.jpg"></center>
+<center><img src="https://i.imgur.com/ZOKp8LH.jpg" width="400px"></center>
 
 ## Info
 
