@@ -12,8 +12,8 @@
 - [Dependencies](#dependencies)
 - [Documentation](#documentation)
 - [Commands](#commands)
-- [Usage Example](#usageexample)
-- [How to Install](#howtouse)
+- [Usage Example](#usage example)
+- [How to Install](#how to use)
 - [Support](#support)
 - [License](#license)
 
