@@ -56,7 +56,7 @@
 
 <h3Example</h3>
 >call.js
-  <img src="http://thursrc.tk/syar2.png" alt="credits.js" width="400">
+  <img src="http://thursrc.tk/gnc86.png" alt="credits.js" width="400">
 
 ## How to Use
 
