@@ -35,7 +35,7 @@
 
 ## Documentation
 
-> Call to a desired number <br> .call countrycode + number + message <br><br> Activate a Plan <br> .activate key <br><br>
+> Call to a desired number <br> .call countrycode + number + message <br><br> Activate a Plan <br> .activate key <br><br> See your credits and your plan<br> .credits <br><br>  Define a plan to a mentioned user <br> .setPlan @member normal/normal2/vip
 
 ## License
 
