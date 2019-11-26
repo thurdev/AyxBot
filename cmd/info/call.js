@@ -66,67 +66,8 @@ module.exports = {
               message.channel.send(embed);
               return;
             }
-            let textToSend;
-            if (args[1]) {
-              textToSend = args[1];
-              if (args[2]) {
-                textToSend += " " + args[2];
-                if (args[3]) {
-                  textToSend += " " + args[3];
-                  if (args[4]) {
-                    textToSend += " " + args[4];
-                    if (args[5]) {
-                      textToSend += " " + args[5];
-                      if (args[6]) {
-                        textToSend += " " + args[6];
-                        if (args[7]) {
-                          textToSend += " " + args[7];
-                          if (args[8]) {
-                            textToSend += " " + args[8];
-                            if (args[9]) {
-                              textToSend += " " + args[9];
-                              if (args[10]) {
-                                textToSend += " " + args[10];
-                                if (args[11]) {
-                                  textToSend += " " + args[11];
-                                  if (args[12]) {
-                                    textToSend += " " + args[12];
-                                    if (args[13]) {
-                                      textToSend += " " + args[13];
-                                      if (args[14]) {
-                                        textToSend += " " + args[14];
-                                        if (args[15]) {
-                                          textToSend += " " + args[15];
-                                          if (args[16]) {
-                                            textToSend += " " + args[16];
-                                            if (args[17]) {
-                                              textToSend += " " + args[17];
-                                              if (args[18]) {
-                                                textToSend += " " + args[18];
-                                                if (args[19]) {
-                                                  textToSend += " " + args[19];
-                                                  if (args[20]) {
-                                                    textToSend += " " + args[20];
-                                                  }
-                                                }
-                                              }
-                                            }
-                                          }
-                                        }
-                                      }
-                                    }
-                                  }
-                                }
-                              }
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
+              
+            let textToSend = args.slice(1).join(' ');
   
             const Nexmo = require("nexmo");
             let privateKey = "private.key";
