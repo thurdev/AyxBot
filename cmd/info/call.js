@@ -66,7 +66,7 @@ module.exports = {
               message.channel.send(embed);
               return;
             }
-              
+            
             let textToSend = args.slice(1).join(' ');
   
             const Nexmo = require("nexmo");
