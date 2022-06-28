@@ -11,13 +11,15 @@ module.exports = {
     ],
     run: async (interaction, client) => {
 
+        
+
         var credits = 0;
         
         const dbRes = await client.db.findOne(
             {
                 table: 'users',
                 where: {
-                    discordId: interaction.user.id
+                    discordId: interaction.options.getUser('user') ? interaction.options.getUser('user').id : interaction.user.id
                 },
                 attributes: ['credits']
             }
@@ -27,7 +29,7 @@ module.exports = {
             await client.db.create({
                 table: 'users',
                 values: {
-                    discordId: interaction.user.id,
+                    discordId: interaction.options.getUser('user') ? interaction.options.getUser('user').id : interaction.user.id,
                     credits: 0
                 }
             })
@@ -35,6 +37,6 @@ module.exports = {
             credits = dbRes.credits;
         }
 
-        interaction.reply({ ephemeral: true, content: `You have \`\`$${parseFloat(credits).toFixed(2)}\`\` credits.` });
+        interaction.reply({ ephemeral: true, content: `${interaction.options.getUser('user') ? `<@${interaction.options.getUser('user').id}>` : 'You'} have \`\`$${parseFloat(credits).toFixed(2)}\`\` credits.` });
     }
 }

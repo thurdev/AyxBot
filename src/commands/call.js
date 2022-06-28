@@ -54,6 +54,9 @@ module.exports = {
         }).send().then(() => {
             interaction.reply({ ephemeral: true, content: `Calling ${interaction.options.getString('phone')}...` });
             client.db.update({
+                where: {
+                    discordId: interaction.user.id
+                },
                 table: 'users',
                 values: {
                     credits: credits - parseFloat(process.env.CALL_PRICE)
